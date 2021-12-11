@@ -1,3 +1,3 @@
 function renameTab() {
-	document.title = prompt("Target Title:")
+	document.title = prompt("Target Title:");
 }
