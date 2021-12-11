@@ -1,3 +1,3 @@
 function renameTab() {
-	alert("Ran");
+	document.title = prompt("Target Title:")
 }
