@@ -1,3 +1,3 @@
-window.renameTab = function() {
+var renameTab = function() {
 	alert("Ran");
 }
