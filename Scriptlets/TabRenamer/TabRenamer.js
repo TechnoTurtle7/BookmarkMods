@@ -1,1 +1,3 @@
-alert("Ran");
+function renameTab() {
+	alert("Ran");
+}
